@@ -1,0 +1,51 @@
+a{
+    text-decoration: none;
+
+}
+
+footer{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    overflow: auto;
+    line-height: 100px;
+}
+
+.formsearch{
+   margin-left: 150px;
+   
+}
+
+.abaproduto{
+    display: flex;
+    overflow: auto;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.link-paginas{
+    display: flex;
+    overflow: auto;
+    margin-inline-start: 150px;
+}
+
+.navbar-brand{
+    margin-left: 150px;
+}
+
+.pagina-cadastro{
+    display: block;
+    overflow: auto;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    
+}
+
+::-webkit-scrollbar {
+    display: none;
+    }
+
+.tbClientes{
+    border: 1px;
+}
